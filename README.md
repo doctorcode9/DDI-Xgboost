@@ -76,8 +76,8 @@ This project presents a machine learning pipeline to classify **Drug-Drug Intera
 - Confusion Matrix (multi-class and binary)
 - ROC AUC curves (micro-average and top classes)
 
-![confusion_matrix](path/to/confusion_matrix.png)
-![roc_auc_curve](path/to/roc_auc.png)
+![confusion_matrix](assets/confusion_matrix.png)
+![roc_auc_curve](assets/roc_auc.png)
 
 ---
 
